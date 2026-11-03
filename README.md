@@ -24,7 +24,7 @@
 
 I'm Anthony Yirinoba, a passionate Software Engineer and technology enthusiast from Ghana, focused on building scalable software solutions and using technology to solve real-world problems.
 
-- 🎓 Bsc Computer Science background UBIDS.
+- 🎓 Bsc Computer Science background
 - 🚀 Founder of **Tech Deal Line**.
 - 💻 Full-Stack Development and Software Engineering.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
