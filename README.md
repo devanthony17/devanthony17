@@ -26,7 +26,7 @@ I'm Anthony Yirinoba, a passionate Software Engineer and technology enthusiast f
 
 - 🎓 Computer Science background — SDD-UBIDS.
 - 🚀 Founder of **Tech Deal Line**.
-- 💻 Interested in Full-Stack Development and Software Engineering.
+- 💻 Full-Stack Development and Software Engineering.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 📱 Building mobile applications with Flutter.
 - 🌱 Constantly learning, building, and improving.
