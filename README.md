@@ -56,17 +56,26 @@ I'm Anthony Yirinoba, a passionate Software Engineer and technology enthusiast f
 
 ---
 
+
 ## 🚀 Featured Projects
 
 | Project | Description | Technology |
 |---|---|---|
-| NutriScan | AI-powered nutrition analysis mobile application | Flutter, AI |
-| LoanLine MIS | Loan management information system | Laravel, PHP |
-| School Management System | Digital school administration solution | Laravel, MySQL |
-| SRN Data Collection | Digital data collection and reporting platform | Laravel |
-| Medical Image Classification | Explainable AI for medical image classification | Python, ML |
+| 🛒 POS System | Point of Sale, inventory, sales and business management solution. | Laravel, PHP, MySQL |
+| 🏦 Banking System | Digital banking solution for managing accounts, transactions and financial operations. | PHP, Laravel, MySQL |
+| 🏠 Hostel Management System | Hostel allocation, student accommodation, payments and room management. | Laravel, MySQL |
+| 💳 Credit Management System | Loan applications, loan processing, repayments and credit monitoring. | Laravel, PHP, MySQL |
+| 🏥 Hospital Management System | Patient records, appointments, billing and hospital administration. | Laravel, MySQL |
+| 🎓 School Management System | Student records, academic administration and school operations. | Laravel, PHP, MySQL |
+| 🥗 NutriScan | AI-powered nutrition analysis mobile application. | Flutter, Python, AI |
+| 📊 SRN Data Collection | Digital data collection, reporting and analytics platform. | Laravel, MySQL |
 
 ---
+
+<p align="center">
+  <i>Building scalable solutions that simplify businesses and improve lives.</i>
+</p>
+
 
 
 
