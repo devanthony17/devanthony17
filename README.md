@@ -69,12 +69,11 @@ I'm Anthony Yirinoba, a passionate Software Engineer and technology enthusiast f
 ---
 
 
-## 🏆 GitHub Achievements
+
+## 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/devanthony17?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/stars/devanthony17?style=for-the-badge&logo=github&color=yellow" />
-  <img src="https://img.shields.io/github/repositories/devanthony17?style=for-the-badge&logo=github&color=success" />
+  <img src="https://raw.githubusercontent.com/devanthony17/devanthony17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 
