@@ -68,11 +68,13 @@ I'm Anthony Yirinoba, a passionate Software Engineer and technology enthusiast f
 
 ---
 
-## 📊 GitHub Analytics
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanthony17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanthony17&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://img.shields.io/github/followers/devanthony17?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/stars/devanthony17?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/repositories/devanthony17?style=for-the-badge&logo=github&color=success" />
 </p>
 
 
