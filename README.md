@@ -108,7 +108,7 @@ I'm Anthony Yirinoba, a passionate Software Engineer and technology enthusiast f
 ---
 
 <h3 align="center">
-  💡 "Code. Innovate. Build. Impact."
+  💡 Code. Innovate. Build. Impact.
 </h3>
 
 <p align="center">
